@@ -8,10 +8,11 @@ function App() {
     <nav>
       
 
-      <Link to="/invoices">Invoices</Link>{""}
+      <Link to="/invoices">Invoices</Link>{"   "}
       <Link to="/expenses">Espenses</Link>
 
     </nav>
+
     <Outlet/>
 
     </>
